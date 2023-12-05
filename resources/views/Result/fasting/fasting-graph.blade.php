@@ -1,0 +1,1 @@
+@include('Result.fasting.history-graph.common_view')
